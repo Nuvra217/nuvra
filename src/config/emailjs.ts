@@ -1,8 +1,8 @@
 // Configuração do EmailJS para envio de e-mails
 export const emailjsConfig = {
-  serviceId: 'service_nuvra',
-  templateId: 'template_nuvra', 
-  publicKey: 'YOUR_PUBLIC_KEY' // Substitua pela sua chave pública
+  serviceId: 'service_9o0uazn',
+  templateId: 'template_w0siv17', 
+  publicKey: 'ta4QYm3LhKtsqjXLb' // Substitua pela sua chave pública
 };
 
 // Template de e-mail que será usado
